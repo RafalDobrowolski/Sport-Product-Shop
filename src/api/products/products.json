@@ -1,0 +1,53 @@
+
+[
+    {
+        "productId": 1,
+        "productName": "Football Boots",
+        "productCode": "GDN-0011",
+        "releaseDate": "March 19, 2009",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "assets/images/kids-boots.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "GoalKeeper Gloves",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 18, 2016",
+        "description": "15 gallon capacity rolling garden cart",
+        "price": 32.99,
+        "starRating": 4.2,
+        "imageUrl": "assets/images/golkipers-gloves.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "Shin Pads",
+        "productCode": "TBX-0048",
+        "releaseDate": "May 21, 2016",
+        "description": "Curved claw steel hammer",
+        "price": 8.9,
+        "starRating": 4.8,
+        "imageUrl": "assets/images/shin-pads.jpg"
+    },
+    {
+        "productId": 8,
+        "productName": "Team training Ball",
+        "productCode": "TBX-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "15-inch steel blade hand saw",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "assets/images/pitch-footbal.jpg"
+    },
+    {
+        "productId": 10,
+        "productName": "Mid-Calf Thin Crew Socks",
+        "productCode": "GMG-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Standard two-button video game controller",
+        "price": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "assets/images/socks.jpg"
+    }
+]

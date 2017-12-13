@@ -1,0 +1,10 @@
+<div class="panel panel-primry" *ngIf='product'>
+  <div class="panel-heading">
+    {{ pageTittle + ': ' + product.productName}}
+  </div>
+  <div class="panel-footer">
+    <div class="btn btn-default" (click)='onBack()' style="width:80px">
+      BAck
+    </div>
+  </div>
+</div>
